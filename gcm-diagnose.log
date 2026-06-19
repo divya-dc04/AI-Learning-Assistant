@@ -1,0 +1,186 @@
+﻿Diagnose log at 2026-06-19T16:38:41Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.5.0+d34930736e131ad80e5690e5634ced1808aff3e2
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\DIVYA CHANDRAKAR
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DIVYA
+GIT_TRACE2_PARENT_SID=48214f3b-c911-4b21-9fd9-106f21fec3e0
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\DIVYA CHANDRAKAR\OneDrive
+ChocolateyLastPathUpdate=133773585766440031
+SESSIONNAME=Console
+TMP=C:\Users\DIVYA CHANDRAKAR\AppData\Local\Temp
+PROCESSOR_REVISION=8c01
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+EFC_8644_1592913036=1
+LOCALAPPDATA=C:\Users\DIVYA CHANDRAKAR\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+COLORTERM=truecolor
+USERDOMAIN=DIVYA
+ProgramFiles(x86)=C:\Program Files (x86)
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\DIVYA CHANDRAKAR\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\nvm;C:\nodejs;C:\Program Files\Java\jdk-21\bin;C:\Users\DIVYA CHANDRAKAR\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\DIVYA CHANDRAKAR\AppData\Local\Programs\Python\Python314\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\DIVYA CHANDRAKAR\AppData\Local\Microsoft\WindowsApps;C:\Users\DIVYA CHANDRAKAR\AppData\Roaming\npm;C:\Users\DIVYA CHANDRAKAR\AppData\Local\Programs\Microsoft VS Code\bin;C:\nvm;C:\nodejs;C:\Apps\Antigravity\bin
+PROCESSOR_LEVEL=6
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+TMPDIR=C:\Users\DIVYA CHANDRAKAR\AppData\Local\Temp
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+NUMBER_OF_PROCESSORS=8
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoRK3V1EfPUKksRem8X1nrgQAAAACAAAAAAAQZgAAAAEAACAAAADno0i1iNOp7N7/+1N4UbSnruRM/3A/yC4HmFy80eF95gAAAAAOgAAAAAIAACAAAACr9Ex/ywNXtb6Cz6ypjd+pgJJZ1SL/yjMZWx/hsup/qmAAAAAw4Nlbn1tkaXiPWQj+siT0oDTxBA016jXkPqz+K1hOz9uTejF1giYnyIes02pIEYKFJWtSLOiTxcIJl8i/IOaWC+AWw4/UXTEurh/h8cNUJ7dnT1F276OzDzeFS6myorpAAAAAgrPbSws1K5+NS1yVmyvuJ843J/aFw65xm1PkhKYN4HbTdG7DGNAPAeoY7XrInsDFvb05Wg5SevtJ91gF6Mi76A==
+ProgramFiles=C:\Program Files (x86)
+ProgramData=C:\ProgramData
+MSYS=disable_pcon
+ChocolateyInstall=C:\ProgramData\chocolatey
+PLINK_PROTOCOL=ssh
+ProgramW6432=C:\Program Files
+NVM_SYMLINK=C:\nodejs
+NVM_HOME=C:\nvm
+HOME=C:\Users\DIVYA CHANDRAKAR
+LC_CTYPE=C.UTF-8
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\DIVYA
+USERPROFILE=C:\Users\DIVYA CHANDRAKAR
+SystemRoot=C:\WINDOWS
+USERDOMAIN_ROAMINGPROFILE=DIVYA
+APPDATA=C:\Users\DIVYA CHANDRAKAR\AppData\Roaming
+HOMEDRIVE=C:
+USERNAME=DIVYA CHANDRAKAR
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+TEMP=C:\Users\DIVYA CHANDRAKAR\AppData\Local\Temp
+SystemDrive=C:
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\DIVYA CHANDRAKAR\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\DIVYA CHANDRAKAR\AppData\Local\Temp\4b384b18aad606401e58a59f'... OK
+Reading from temporary file 'C:\Users\DIVYA CHANDRAKAR\AppData\Local\Temp\4b384b18aad606401e58a59f'... OK
+Deleting temporary file 'C:\Users\DIVYA CHANDRAKAR\AppData\Local\Temp\4b384b18aad606401e58a59f'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\DIVYA CHANDRAKAR
+UserDataDirectoryPath: C:\Users\DIVYA CHANDRAKAR\.gcm
+GetCurrentDirectory(): C:\Users\DIVYA CHANDRAKAR\Desktop\Full-Stack-Project\AI-Learning-Assistant
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:56224/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.45.2.windows.1'
+Locating current repository...Git repository at 'C:/Users/DIVYA CHANDRAKAR/Desktop/Full-Stack-Project/AI-Learning-Assistant/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/DIVYA CHANDRAKAR/.gitconfig	user.email=dchandrakar636@gmail.com
+file:C:/Users/DIVYA CHANDRAKAR/.gitconfig	user.name=divya chandrakar
+file:C:/Users/DIVYA CHANDRAKAR/.gitconfig	credential.helper=manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/divya-dc04/AI-Learning-Assistant.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	branch.main.vscode-merge-base=origin/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\DIVYA CHANDRAKAR\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\DIVYA CHANDRAKAR\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
