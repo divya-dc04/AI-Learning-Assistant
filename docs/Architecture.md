@@ -23,3 +23,26 @@ LangChain → AI orchestration
 Hugging Face → Models
 Sentence Transformers → Embeddings
 ChromaDB → Vector database for RAG
+
+
+# Main Entities:
+
+User
+    ↓
+Document
+    ↓
+Summary
+    ↓
+Quiz
+    ↓
+Question
+    ↓
+ChatHistory
+    ↓
+Progress
+    ↓
+Flashcard
+    ↓
+StudySession
+    ↓
+AIRequest
